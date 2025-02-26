@@ -2,10 +2,12 @@
 The official repo for [Hands-On Prompt Engineering: Building LLM Applications with Prompt Engineering](https://youssefhosni.gumroad.com/l/xsmguv?layout=profile) Book
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2507ebbe-f644-45cf-8059-9fd8cf7e1e5e" 
-       alt="Copy of Prompt Engineering Best Practices for Instruction Tuned LLM" 
+  <img src="https://github.com/user-attachments/assets/e042bb3e-a1c0-4add-a425-34c4299314c0" 
+       alt="Copy of Prompt Engineering Best Practices for Instruction Tuned LLM (2480 x 3508 px)" 
        width="400">
 </p>
+
+
 
 ## Part 1: Introduction to Instruction-Tuned LLMs ##
 * [A Comprehensive Introduction to Instruction Fine-Tuning for LLMs]()
