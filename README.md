@@ -1,4 +1,4 @@
-# Hands-On-Prompt-Engineering
+# Hands-On-Prompt-Engineering-Book
 The official repo for [Hands-On Prompt Engineering: Building LLM Applications with Prompt Engineering](https://youssefhosni.gumroad.com/l/xsmguv?layout=profile) Book
 
 ## Part 1: Introduction to Instruction-Tuned LLMs ##
