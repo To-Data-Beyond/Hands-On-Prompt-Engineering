@@ -1,6 +1,8 @@
 # Hands-On-Prompt-Engineering-Book
 The official repo for [Hands-On Prompt Engineering: Building LLM Applications with Prompt Engineering](https://youssefhosni.gumroad.com/l/xsmguv?layout=profile) Book
 
+![Copy of Prompt Engineering Best Practices for Instruction Tuned LLM (1280 x 720 px) (400 x 400 px) (2)](https://github.com/user-attachments/assets/2507ebbe-f644-45cf-8059-9fd8cf7e1e5e)
+
 ## Part 1: Introduction to Instruction-Tuned LLMs ##
 * [A Comprehensive Introduction to Instruction Fine-Tuning for LLMs]()
 * [Single Vs Multi-Task LLM Instruction Fine-Tuning	]()
