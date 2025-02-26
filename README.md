@@ -11,12 +11,13 @@ The official repo for [Hands-On Prompt Engineering: Building LLM Applications wi
 ## Part 2: Prompt Engineering Guide ##
 * [Prompt Engineering Best Practices for Instruction-Tuned LLM [Part 1]]()
 * [Prompt Engineering Best Practices for Instruction-Tuned LLM [Part 2]]()
-* [Prompt Engineering for Instruction-Tuned LLM: Iterative Prompt Development]()
-* [Prompt Engineering for Instruction-Tuned LLM: Text Summarization]()
-* [Prompt Engineering for Instruction-Tuned LLM: Textual Inference & Sentiment Analysis](Prompt Engineering for Instruction-Tuned LLM: Text Transforming & Translation)
+* [Iterative Prompt Development]()
+* [Text Summarization]()
+* [Textual Inference & Sentiment Analysis]()
+* [Text Transforming & Translation]()
 * [Text Expansion & Generation with Prompt Engineering]()
-* [Prompt Engineering Best Practices: Chain of Thought Reasoning]()
-* [Prompt Engineering Best Practices: LLM Output Validation]()
+* [Chain of Thought Reasoning]()
+* [LLM Output Validation]()
 
 ## Part 3: Building Projects with Prompt Engineering ##
 * [Building Chatbots using Prompt Engineering]()
